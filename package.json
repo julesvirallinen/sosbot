@@ -1,0 +1,26 @@
+{
+  "name": "sos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jules",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "^1.12.7",
+    "coffeescript": "2.2.4",
+    "dotenv": "^2.0.0",
+    "hubot": "^2.19.0",
+    "hubot-scripts": "*",
+    "lastfm-njs": "^0.2.4",
+    "moment": "^2.17.1",
+    "node-telegram-bot-api": "^0.24.0",
+    "random-puppy": "^1.1.0",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.2"
+  }
+}
